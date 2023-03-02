@@ -6,7 +6,7 @@ pycocotools  # or install the nvidia version which is cpp-accelerated
 cffi
 ninja
 setproctitle
-fastfunc
+#fastfunc
 meshplex
 OpenEXR
 vispy>=0.6.4
