@@ -10,5 +10,5 @@ apt install libassimp-dev
 # conda install ipython
 pip3 install -r requirements.txt
 
-pip3 uninstall pillow
-CC="cc -mavx2" pip3 install -U --force-reinstall pillow-SIMD
+# pip3 uninstall pillow
+# CC="cc -mavx2" pip3 install -U --force-reinstall pillow-SIMD
