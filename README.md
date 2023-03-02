@@ -1,4 +1,11 @@
 # GDR-Net
+
+## GDR-Net Repo w/ updates for 251 Project
+
+## Directly pulled from https://github.com/THU-DA-6D-Pose-Group/GDR-Net.
+
+### Original code edited to fit project parameters and needs. Below is the README from the repo:
+
 This repo provides the PyTorch implementation of the work:
 
 **Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji. GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. In CVPR 2021.**
