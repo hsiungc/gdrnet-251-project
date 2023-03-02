@@ -28,6 +28,6 @@ open3d
 fvcore
 tensorboardX
 
-pytorch-lightning  # 1.6.0.dev0
+pytorch-lightning==1.6  # 1.6.0.dev0
 fairscale
 deepspeed
