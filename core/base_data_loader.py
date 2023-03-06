@@ -100,6 +100,7 @@ class Base_DatasetFromList(data.Dataset):
         return dataset_dict
 
     def _get_sample_dict(self, idx):
+        print(f"Sample for index {idx}")
         if self._serialize:
             start_addr = 0 if idx == 0 else self._addr[idx - 1].item()
             end_addr = self._addr[idx].item()
